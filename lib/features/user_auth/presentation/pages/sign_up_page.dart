@@ -112,7 +112,7 @@ controller: _passwordController,
   }
 
   void _signUp() async {
-    String username = _usernameController.text;
+    //String username = _usernameController.text;
     String email = _emailController.text;
     String password = _passwordController.text;
 
